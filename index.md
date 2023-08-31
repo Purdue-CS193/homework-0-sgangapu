@@ -14,13 +14,13 @@ Syntax highlighted code block
 
 # Header 1
 ## Ansh Gangapurkar's First CS193 Homework
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Favorite things about 193
+- no tests
+- no quizzes
+- **ta's are cool**
+
 
 **Bold** and _Italic_ and `Code` text
 
