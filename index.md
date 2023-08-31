@@ -4,7 +4,6 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-kdhfkajdshfkadhsfkjahdklf
 
 ### Markdown
 
@@ -14,7 +13,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-## Header 2
+## Ansh Gangapurkar's First CS193 Homework
 ### Header 3
 
 - Bulleted
