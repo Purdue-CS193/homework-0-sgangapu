@@ -19,7 +19,7 @@ Syntax highlighted code block
 ### Favorite things about 193
 - no tests
 - no quizzes
-- **ta's are cool**
+- lecturers and ta's are cool
 
 
 **Bold** and _Italic_ and `Code` text
